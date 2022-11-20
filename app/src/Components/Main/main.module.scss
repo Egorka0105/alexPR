@@ -1,0 +1,30 @@
+@import "src/assets/styles/mixin";
+
+.main {
+  display: flex;
+  min-height: calc(100vh - 100px);
+  width: 100%;
+  background-size: cover;
+
+  .mainWrapper {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    width: 100%;
+
+    .titleWrapper {
+      text-align: center;
+
+      h1 {
+        @include david-font(700);
+        font-size: 64px;
+        margin-bottom: 100px;
+      }
+
+      h2 {
+        @include david-font(700);
+        font-size: 50px;
+      }
+    }
+  }
+}

@@ -1,0 +1,15 @@
+.footer {
+  display: flex;
+  justify-content: center;
+  width: 100%;
+  background-color: rgb(0, 0, 0);
+
+  .mainWrapper {
+    display: flex;
+    padding: 30px 0;
+
+    .footer_logo{
+      margin-top: 50px;
+    }
+  }
+}

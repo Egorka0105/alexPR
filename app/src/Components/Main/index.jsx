@@ -1,9 +1,9 @@
-import banner from "@images/fon2.png";
+import banner from "@images/aboutUsBack.png";
 //styles
 import s from "./main.module.scss";
 
 export const Main = () => {
-  console.log("ssss");
+  console.log("ss");
   return (
     <main className={s.main} style={{ backgroundImage: `url(${banner.src})` }}>
       <div className={s.mainWrapper}>

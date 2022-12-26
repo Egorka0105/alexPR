@@ -1,6 +1,8 @@
 @mixin david-font ($weight) {
-  font-family: 'David Libre', serif;
+ // font-family: 'David Libre', serif;
+  font-family: "Playfair Display SC",serif;
   font-weight: $weight;
+  font-style: italic;
 }
 
 

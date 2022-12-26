@@ -1,0 +1,20 @@
+{
+  "header": {
+    "firstPart": "Медецина лікує",
+    "secondPart": "Природа зцілює"
+  },
+  "footer": {
+    "address": {
+      "title": "Адреса:",
+      "description": "Вул. Зелена 147, Львів, Україна"
+    },
+    "phone": {
+      "title": "Номер телефону:",
+      "description": "+380930000000"
+    },
+    "e-mail": {
+      "title": "E-mail:",
+      "description": "Haisha-m@gmail.com"
+    }
+  }
+}

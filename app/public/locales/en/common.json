@@ -1,0 +1,20 @@
+{
+  "header": {
+    "firstPart": "Medicine treats",
+    "secondPart": "Nature heals"
+  },
+  "footer": {
+    "address": {
+      "title": "Address:",
+      "description": "St. Zelena 147, Lviv, Ukraine"
+    },
+    "phone": {
+      "title": "Phone number:",
+      "description": "+1000800088"
+    },
+    "e-mail": {
+      "title": "E-mail:",
+      "description": "Haisha-m@gmail.com"
+    }
+  }
+}
